@@ -1,7 +1,5 @@
 # Hi there, I'm Geraldo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-
 ### About Me
 
 🤖 **AI & Robotics Engineer** based in Genova, Italy
@@ -17,8 +15,6 @@
 ---
 
 ### What I'm Into
-
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"/>
 
 - 🤝 Multi-Agent Systems with LangGraph & Claude API
 - ☁️ Cloud ML Pipelines on AWS
