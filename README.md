@@ -44,11 +44,3 @@ geraldo = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geraldomargjini@gmail.com)
 
 📍 Genova, Italy — open to relocating across Europe
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-  <br><br>
-  <i>Currently looking for AI Engineer / Agentic AI roles</i>
-</div>
