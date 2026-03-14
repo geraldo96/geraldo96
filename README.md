@@ -42,6 +42,7 @@ geraldo = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldo-margjini-29a09020b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geraldomargjini@gmail.com)
+
 📍 Genova, Italy — open to relocating across Europe
 
 ---
